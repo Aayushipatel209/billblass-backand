@@ -1,0 +1,342 @@
+{
+  "data": [
+    {
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": 125,
+      "id": "3712"
+    },
+    {
+      "name": "Leather Slip-on - printed snake",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-MSN710-1_large.jpg?v=1611783661",
+      "price": 155,
+      "id": "2c4e"
+    },
+    {
+      "name": "Leather Slip-on - Leopard",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-H257-1_large.jpg?v=1611783380",
+      "price": 155,
+      "id": "f00e"
+    },
+    {
+      "name": "Leather Slip-on - Black",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L001-1_large.jpg?v=1611787846",
+      "price": 125,
+      "id": "c494"
+    },
+    {
+      "name": "Leather Sneaker - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-L100-1_large.jpg?v=1611784738",
+      "price": 135,
+      "id": "46c6"
+    },
+    {
+      "name": "Leather Sneaker - Oatmeal",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-L261-1_large.jpg?v=1611787132",
+      "type": "sneaker",
+      "color": "Oatmeal",
+      "price": 135,
+      "id": "fadc"
+    },
+    {
+      "name": "Leather Sneaker - Black",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-L001-1_large.jpg?v=1611783755",
+      "type": "sneaker",
+      "color": "Black",
+      "price": 135,
+      "id": "f8bf"
+    },
+    {
+      "name": "Suede Slip-on - Pond Green",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S300-1_large.jpg?v=1611764300",
+      "type": "slip-on",
+      "color": "Pond Green",
+      "price": 125,
+      "id": "3f8c"
+    },
+    {
+      "name": "Suede Slip-on - Nude",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S270-1_large.jpg?v=1611764217",
+      "type": "slip-on",
+      "color": "Nude",
+      "price": 125,
+      "id": "744d"
+    },
+    {
+      "name": "Suede Slip-on - Camellia Pink",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S653-1_large.jpg?v=1611765369",
+      "type": "slip-on",
+      "color": "Camellia Pink",
+      "price": 125,
+      "id": "5ca2"
+    },
+    {
+      "name": "Suede Slip-on - Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S530-1_large.jpg?v=1611765086",
+      "type": "slip-on",
+      "color": "Orchid",
+      "price": 125,
+      "id": "9f36"
+    },
+    {
+      "name": "Suede Slip-on - Red",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S600-1_large.jpg?v=1611765207",
+      "type": "slip-on",
+      "color": "Red",
+      "price": 125,
+      "id": "7ceb"
+    },
+    {
+      "name": "Suede Sneaker - Wood Rose",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-S619-1_large.jpg?v=1611785689",
+      "type": "sneaker",
+      "color": "Wood Rose",
+      "price": 135,
+      "id": "3db4"
+    },
+    {
+      "name": "Suede Slip-on - Cherry Tomato",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S610-1_large.jpg?v=1611765268",
+      "type": "slip-on",
+      "color": "Cherry Tomato",
+      "price": 125,
+      "id": "78b5"
+    },
+    {
+      "name": "Suede Sneaker - Cherry Tomato",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-S610-1_large.jpg?v=1611785632",
+      "type": "sneaker",
+      "color": "Cherry Tomato",
+      "price": 135,
+      "id": "55eb"
+    },
+    {
+      "name": "Knit Ballet - Fair Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/NFSB-J516_large.jpg?v=1634746952",
+      "type": "knit ballet",
+      "color": "Fair Orchid",
+      "price": 95,
+      "id": "43fe"
+    },
+    {
+      "id": "7ecb",
+      "name": "Suede Slip-on - Pond Green",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S300-1_large.jpg?v=1611764300",
+      "price": "125"
+    }
+  ],
+  "products": [
+    {
+      "name": "Small - Black Flower tote",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONSMALLBLACKWH-F_large.png?v=1693240511",
+      "price": "$195",
+      "id": "a15a"
+    },
+    {
+      "name": "Medium - Black Flower tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONMEDIUMBLACKWH-P_large.png?v=1693237608",
+      "price": "$295",
+      "id": "04f7"
+    },
+    {
+      "name": "Small - Wine Flower tote",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONSMALLWINEWH-F_large.png?v=1693240058",
+      "price": "$195",
+      "id": "3e9d"
+    },
+    {
+      "name": "Medium - Wine Flower tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONMEDIUMWINEWH-P_large.png?v=1693238717",
+      "price": "$295",
+      "id": "6dea"
+    },
+    {
+      "name": "Small - Dark Blue Flower tote",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONSMALLDKBLUEWH-F_large.png?v=1693239763",
+      "price": "$195",
+      "id": "53f1"
+    },
+    {
+      "name": "Medium - Dark Blue Flower tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISONMEDIUMDKBLUEWH-P_large.png?v=1693239256",
+      "price": "$295",
+      "id": "a78e"
+    },
+    {
+      "name": "Mini - Wine Wave with Top Handle Shoulder Strap",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-MINI-WINE-A_large.png?v=1684770958",
+      "price": "$145",
+      "id": "996f"
+    },
+    {
+      "name": "Mini - Navy Wave Tote with Top Handle Shoulder Strap",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-MINI-NAVY-A_large.png?v=1684770569",
+      "price": "$145",
+      "id": "48ac"
+    },
+    {
+      "name": "Mini - Black Diamond Tote with Top Handle Shoulder Strap",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-MINI-BLK-A_large.png?v=1684769321",
+      "price": "$145",
+      "id": "e8a9"
+    },
+    {
+      "name": "Black Diamond Shoulder",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/PRESTON-BLK-A_large.png?v=1684774412",
+      "price": "$155",
+      "id": "dbba"
+    },
+    {
+      "name": "Red Diamond Shoulder",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/PRESTON-RED-A_large.png?v=1684775129",
+      "price": "$155",
+      "id": "1899"
+    },
+    {
+      "name": "Large - Dark Blue Flower tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-LG-DKBL-A_large.png?v=1684771816",
+      "price": "$395",
+      "id": "5018"
+    },
+    {
+      "name": "Large - Navy Wave tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-LG-NAVY-A_large.png?v=1684772534",
+      "price": "$395",
+      "id": "14da"
+    },
+    {
+      "name": "Large - Red Wave tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/MADISON-LG-RED-A_large.png?v=1684773284",
+      "price": "$395",
+      "id": "10d1"
+    },
+    {
+      "name": "Large - Black Tree Branches tote with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/SUTTON-CITY-TOTE-BLK-A_large.png?v=1684773443",
+      "price": "$295",
+      "id": "c859"
+    },
+    {
+      "name": "small - Wine Diamond tote",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/files/SUTTON-CITY-TOTE-SM-WINE-B_large.png?v=1684768077",
+      "price": "$95",
+      "id": "ab25"
+    },
+    {
+      "name": "Large - Petal Pink Diamond Monogram tote / Detachable Metal Chain with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/pink_L_chain-front-pouch_large.png?v=1675877929",
+      "price": "$215",
+      "id": "f391"
+    },
+    {
+      "name": "Large - Buckthorn Diamond Monogram tote / Detachable Metal Chain with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/Buckthorn_L_chain-pouch-_1_large.png?v=1675871185",
+      "price": "$215",
+      "id": "2a1b"
+    },
+    {
+      "name": "Large - Red Diamond Monogram tote / Detachable Metal Chain with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/DSC07357_large.png?v=1675884004",
+      "price": "$215",
+      "id": "ffaf"
+    },
+    {
+      "name": "Large - Navy Diamond Monogram tote / Detachable Metal Chain with pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/navy_L_chainpouch_large.png?v=1677606894",
+      "price": "$215",
+      "id": "37d1"
+    },
+    {
+      "name": "Medium - Buckthorn Diamond Monogram Tote / Detachable Metal Chain With Pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/Buckthorn_L_chainpouch_1_large.png?v=1675869722",
+      "price": "$195",
+      "id": "d833"
+    },
+    {
+      "name": "Medium - Red Diamond Monogram Tote / Detachable Metal Chain With Pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/DSC07805_large.png?v=1678989154",
+      "price": "$195",
+      "id": "b292"
+    },
+    {
+      "name": "Medium - Navy Diamond Monogram Tote / Detachable Metal Chain With Pouch",
+      "image_url": "https://cdn.shopify.com/s/files/1/2271/4863/products/navy_M_frontwpouch",
+      "price": "$200",
+      "id": "226b"
+    }
+  ],
+  "cart": [
+    {
+      "id": "db3a",
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": "125"
+    },
+    {
+      "id": "68d3",
+      "name": "Leather Slip-on - Black",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L001-1_large.jpg?v=1611787846",
+      "price": "125"
+    },
+    {
+      "id": "5d6b",
+      "name": "Suede Slip-on - Cherry Tomato",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S610-1_large.jpg?v=1611765268",
+      "price": "125"
+    },
+    {
+      "id": "696e",
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": "125"
+    },
+    {
+      "id": "094c",
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": "125"
+    },
+    {
+      "id": "e347",
+      "name": "Suede Sneaker - Wood Rose",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/KSU-S619-1_large.jpg?v=1611785689",
+      "price": "135"
+    },
+    {
+      "id": "be95",
+      "name": "Leather Slip-on - Leopard",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-H257-1_large.jpg?v=1611783380",
+      "price": "155"
+    },
+    {
+      "id": "8de2",
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": "125"
+    },
+    {
+      "id": "f703",
+      "name": "Suede Slip-on - Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S530-1_large.jpg?v=1611765086",
+      "price": "125"
+    },
+    {
+      "id": "7df8",
+      "name": "Suede Slip-on - Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-S530-1_large.jpg?v=1611765086",
+      "price": "125"
+    },
+    {
+      "id": "4417",
+      "name": "Leather Slip-on - White",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/FLA-L100-1_large.jpg?v=1611787744",
+      "price": "125"
+    },
+    {
+      "id": "d4ae",
+      "name": "Knit Ballet - Fair Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/2271/4863/products/NFSB-J516_large.jpg?v=1634746952",
+      "price": "95"
+    }
+  ]
+}
